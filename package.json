@@ -1,0 +1,27 @@
+{
+  "name": "5g-polar",
+  "version": "0.0.1",
+  "description": "5G NR Polar code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learnwithexamples/polar.git"
+  },
+  "keywords": [
+    "3GPP",
+    "5G",
+    "new",
+    "radio",
+    "Polar"
+  ],
+  "author": "Learn with Examples",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learnwithexamples/polar/issues"
+  },
+  "homepage": "https://github.com/learnwithexamples/polar#readme"
+}

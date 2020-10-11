@@ -1,0 +1,1 @@
+Polar code for NR, as defined in TS 38.212 clause 5.3.1
