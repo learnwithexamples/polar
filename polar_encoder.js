@@ -175,7 +175,7 @@ const calc_frozen = (K, E, n_max) => {
   return {F, QPC, GN, n_PC_wm};
 };
 
-const encode = (a, link = 'DL', E) => { // input [c0, c1, ..., cK-1], E is rate match seq length by 5.4.1
+const encode = (a, E, link = 'DL') => { // input [c0, c1, ..., cK-1], E is rate match seq length by 5.4.1
   assert(E < 8192);
   let g = [], itlv_input = false, itlv_subblock = false, n_max = 0;
   if (link.toLowerCase() === 'dl') {
