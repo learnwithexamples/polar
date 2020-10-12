@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/learnwithexamples/polar/issues"
   },
-  "homepage": "https://github.com/learnwithexamples/polar#readme"
+  "homepage": "https://github.com/learnwithexamples/polar#readme",
+  "dependencies": {
+    "mathjs": "^7.5.1"
+  }
 }
